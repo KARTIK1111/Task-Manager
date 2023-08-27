@@ -25,7 +25,7 @@ Todo List Project is all about Implimentation of RESTful API for managing a Todo
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Bhagwan73/TodoList)
+   git clone [<repository-url>]((https://github.com/KARTIK1111/Task-Manager.git))
    ```
 
 
